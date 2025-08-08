@@ -6,7 +6,7 @@
 #     3) input a = 3, then output : 1, 3, 5
 #     4) input a = 4, then output : 1, 3, 5, 7
 
-#logic 2×1 − 1 = 1
+#MY logic 2×1 − 1 = 1
 
 value=int(input("enter a number: "))
 for i in range(1,value+1):
